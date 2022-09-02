@@ -1,0 +1,4 @@
+C:\Users\venri\source\repos\Lab2_Victor_Jacobo_1134819\Debug\Lab2_Victor_Jacobo_1134819.vcxproj.AssemblyReference.cache
+C:\Users\venri\source\repos\Lab2_Victor_Jacobo_1134819\Debug\Lab2VictorJacobo1134819.MyForm.resources
+C:\Users\venri\source\repos\Lab2_Victor_Jacobo_1134819\Debug\Lab2_Victor_Jacobo_1134819.vcxproj.GenerateResource.cache
+C:\Users\venri\source\repos\Lab2_Victor_Jacobo_1134819\Debug\Lab2_Victor_Jacobo_1134819.exe

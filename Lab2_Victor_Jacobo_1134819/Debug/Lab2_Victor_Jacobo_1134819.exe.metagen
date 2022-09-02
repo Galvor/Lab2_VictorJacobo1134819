@@ -1,0 +1,39 @@
+  Lab2VictorJacobo1134819.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Lab2_Victor_Jacobo_1134819, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Lab2VictorJacobo1134819.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    HideElements(): PrivateScope, Public, HideBySig
+    AskTriangulo(): PrivateScope, Public, HideBySig
+    AskCuadrado(): PrivateScope, Public, HideBySig
+    AskPentagono(): PrivateScope, Public, HideBySig
+    AskHexagono(): PrivateScope, Public, HideBySig
+    AskHeptagono(): PrivateScope, Public, HideBySig
+    AskOctagono(): PrivateScope, Public, HideBySig
+    AskEneagono(): PrivateScope, Public, HideBySig
+    AskDecagono(): PrivateScope, Public, HideBySig
+    PerimetroTriangulo(): PrivateScope, Public, HideBySig
+    PerimetroCuadrado(): PrivateScope, Public, HideBySig
+    PerimetroPentagono(): PrivateScope, Public, HideBySig
+    PerimetroHexagono(): PrivateScope, Public, HideBySig
+    PerimetroHeptagono(): PrivateScope, Public, HideBySig
+    PerimetroOctagono(): PrivateScope, Public, HideBySig
+    PerimetroEneagono(): PrivateScope, Public, HideBySig
+    PerimetroDecagono(): PrivateScope, Public, HideBySig
+    AreaTriangulo(): PrivateScope, Public, HideBySig
+    AreaCuadrado(): PrivateScope, Public, HideBySig
